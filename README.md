@@ -26,7 +26,7 @@ This repository contains my daily Python learning notebooks, exercises, mini-pro
 
 ---
 
-## Mini Projects
+## Mini Projects 
 - BMI Calculator  
 - Todo List App  
 - Bank System  
@@ -34,7 +34,7 @@ This repository contains my daily Python learning notebooks, exercises, mini-pro
 ---
 
 ## DSA Practice
-- Arrays, Strings, Linked Lists, Stacks, Queues  
+- Will be uploaded in a separate repository
 
 ---
 
